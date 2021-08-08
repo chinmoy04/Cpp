@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Design Patterns" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Creational\;Structural\;Behavioral\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Design Patterns" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Design Patterns" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AbstractFactory.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="Adapter.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Adapter1.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Builder.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="COR.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="COR1.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Command.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Composite.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Composite1.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="DBFactory.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="Decorator.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Design Patterns.cbp" />
+		<Unit filename="Facade.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="FactoryDemo.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="FactoryMethod.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="IOInterface.cpp" />
+		<Unit filename="IOInterface.h" />
+		<Unit filename="IOTest.cpp" />
+		<Unit filename="Iterator.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Observer.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Observer1.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Problem.cpp" />
+		<Unit filename="Proxy.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Proxy1.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Proxy2.cpp">
+			<Option virtualFolder="Structural/" />
+		</Unit>
+		<Unit filename="Singleton.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="Singleton1.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="State.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Strategy.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="Template.cpp">
+			<Option virtualFolder="Behavioral/" />
+		</Unit>
+		<Unit filename="ThreadSafeSingleton.cpp">
+			<Option virtualFolder="Creational/" />
+		</Unit>
+		<Unit filename="WavParserLegacy.cpp" />
+		<Unit filename="sample1.cpp" />
+		<Unit filename="test1.cpp" />
+		<Unit filename="test2.cpp" />
+		<Unit filename="visitor.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

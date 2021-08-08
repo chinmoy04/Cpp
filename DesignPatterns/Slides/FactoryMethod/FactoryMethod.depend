@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1497257481 source:d:\mydocuments\designpatterns\codeblocks\factorymethod\createsimple.cpp
+	"CreatorSimple.h"
+	"ProductA.h"
+	"ProductB.h"
+
+1497257879 d:\mydocuments\designpatterns\codeblocks\factorymethod\creatorsimple.h
+	"Creator.h"
+	"Product.h"
+
+1497257861 d:\mydocuments\designpatterns\codeblocks\factorymethod\creator.h
+	"Product.h"
+
+1497257720 d:\mydocuments\designpatterns\codeblocks\factorymethod\product.h
+
+1497257761 d:\mydocuments\designpatterns\codeblocks\factorymethod\producta.h
+	"Product.h"
+
+1497257742 d:\mydocuments\designpatterns\codeblocks\factorymethod\productb.h
+	"Product.h"
+
+1497257564 source:d:\mydocuments\designpatterns\codeblocks\factorymethod\creator.cpp
+	"Creator.h"
+
+1497257596 source:d:\mydocuments\designpatterns\codeblocks\factorymethod\main.cpp
+	<iostream>
+	<iostream>
+	"CreatorSimple.h"
+	<vector>
+	"ProductA.h"
+	"ProductB.h"
+
+1497257590 source:d:\mydocuments\designpatterns\codeblocks\factorymethod\producta.cpp
+	"ProductA.h"
+
+1497257582 source:d:\mydocuments\designpatterns\codeblocks\factorymethod\productb.cpp
+	"ProductB.h"
+

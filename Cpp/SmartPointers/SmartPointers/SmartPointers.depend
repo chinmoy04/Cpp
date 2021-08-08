@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1512981551 source:d:\personal\study\cpp\smartpointers\smartpointers\test.cpp
+	<iostream>
+
+1513416191 source:d:\personal\study\cpp\smartpointers\smartpointers\auto.cpp
+	<iostream>
+	<memory>
+
+1513091342 source:d:\personal\study\cpp\smartpointers\smartpointers\unique1.cpp
+	<iostream>
+	<memory>
+
+1513092909 source:d:\personal\study\cpp\smartpointers\smartpointers\shared.cpp
+	<iostream>
+	<memory>
+
+1534577426 source:d:\personal\study\cpp\smartpointers\smartpointers\ref_counting.cpp
+	<iostream>
+	<memory>
+
+1534577530 source:d:\personal\study\cpp\smartpointers\smartpointers\sp1.cpp
+	<iostream>
+
+1512968253 source:d:\personal\study\cpp\smartpointers\smartpointers\unique.cpp
+
+1513093123 source:d:\personal\study\cpp\smartpointers\smartpointers\weak.cpp
+	<iostream>
+	<memory>
+
+1513093111 source:d:\personal\study\cpp\smartpointers\smartpointers\weak2.cpp
+	<iostream>
+	<memory>
+

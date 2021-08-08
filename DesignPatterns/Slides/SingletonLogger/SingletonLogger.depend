@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1497261450 source:d:\mydocuments\designpatterns\codeblocks\singletonlogger\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+	<exception>
+	<stdexcept>
+	"stdafx.h"
+	<iostream>
+	<sstream>
+	<map>
+

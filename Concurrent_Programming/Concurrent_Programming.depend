@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1527950399 source:d:\personal\study\concurrent_programming\introduction.cpp
+	<iostream>
+	<thread>
+
+1527966712 source:d:\personal\study\concurrent_programming\thread_mgt.cpp
+	<string>
+	<iostream>
+	<thread>
+
+1528027218 source:d:\personal\study\concurrent_programming\deadlock.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+
+1534692372 source:d:\personal\study\concurrent_programming\dataraceandmutex.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+
+1534747091 source:d:\personal\study\concurrent_programming\producerconsumer.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+	<deque>
+	<condition_variable>
+
+1528034601 source:d:\personal\study\concurrent_programming\uniquelock.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+
+1528213216 source:d:\personal\study\concurrent_programming\threadcommunication.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+	<deque>
+	<condition_variable>
+	<future>
+
+1528214441 source:d:\personal\study\concurrent_programming\callabledemo.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+	<deque>
+	<condition_variable>
+	<future>
+
+1528218774 source:d:\personal\study\concurrent_programming\packagedtask.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+	<deque>
+	<condition_variable>
+	<future>
+
+1528026642 source:d:\personal\study\concurrent_programming\threads_ch2.cc
+
+1536509303 source:d:\personal\study\concurrent_programming\even_odd.cpp
+	<iostream>
+	<thread>
+	<mutex>
+
+1528300794 source:d:\personal\study\concurrent_programming\timeconstraints.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<fstream>
+	<deque>
+	<condition_variable>
+	<future>
+
+1538556747 source:d:\personal\study\concurrent_programming\thread_local.cpp
+	<string>
+	<iostream>
+	<thread>
+
+1538556645 source:d:\personal\study\concurrent_programming\fact.cpp
+	<iostream>
+	<string>
+	<thread>
+	<mutex>
+	<condition_variable>
+

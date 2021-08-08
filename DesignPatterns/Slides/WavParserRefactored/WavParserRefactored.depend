@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497346785 source:d:\mydocuments\designpatterns\codeblocks\wavparserrefactored\main.cpp
+	<iostream>
+	"inttypes.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

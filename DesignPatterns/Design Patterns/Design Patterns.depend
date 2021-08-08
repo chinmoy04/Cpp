@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1497331447 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\factorydemo.cpp
+	<iostream>
+	<string>
+
+1497331447 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\singleton.cpp
+	<iostream>
+	<string>
+
+1497248758 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\test2.cpp
+	<vector>
+
+1497334498 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\proxy1.cpp
+	<iostream>
+
+1497331369 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\abstractfactory.cpp
+
+1497251471 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\iotest.cpp
+
+1497331447 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\proxy.cpp
+	<iostream>
+
+1497331476 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\sample1.cpp
+
+1497331548 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\test1.cpp
+	<vector>
+
+1497337709 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\composite.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1497344766 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\cor.cpp
+	<iostream>
+	<string>
+
+1497421844 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\iointerface.cpp
+	<string>
+	"IOInterface.h"
+
+1497421856 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\wavparserlegacy.cpp
+	<iostream>
+	"inttypes.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1497345146 d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\iointerface.h
+	<string>
+
+1497423387 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\observer.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1497416399 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\problem.cpp
+	<iostream>
+
+1498712719 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\adapter.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1497429091 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\template.cpp
+
+1512469974 source:d:\userfiles\cbhattacharya\documents\design patterns training\design patterns\dbfactory.cpp
+	<iostream>
+
+1518850943 source:d:\personal\study\design patterns training\design patterns\abstractfactory.cpp
+	<iostream>
+
+1498712719 source:d:\personal\study\design patterns training\design patterns\adapter.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1497337709 source:d:\personal\study\design patterns training\design patterns\composite.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1497344766 source:d:\personal\study\design patterns training\design patterns\cor.cpp
+	<iostream>
+	<string>
+
+1497331447 source:d:\personal\study\design patterns training\design patterns\factorydemo.cpp
+	<iostream>
+	<string>
+
+1497421844 source:d:\personal\study\design patterns training\design patterns\iointerface.cpp
+	<string>
+	"IOInterface.h"
+
+1497345146 d:\personal\study\design patterns training\design patterns\iointerface.h
+	<string>
+
+1497251471 source:d:\personal\study\design patterns training\design patterns\iotest.cpp
+
+1497423387 source:d:\personal\study\design patterns training\design patterns\observer.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1497416399 source:d:\personal\study\design patterns training\design patterns\problem.cpp
+	<iostream>
+
+1497331447 source:d:\personal\study\design patterns training\design patterns\proxy.cpp
+	<iostream>
+
+1497334498 source:d:\personal\study\design patterns training\design patterns\proxy1.cpp
+	<iostream>
+
+1497331476 source:d:\personal\study\design patterns training\design patterns\sample1.cpp
+
+1497331447 source:d:\personal\study\design patterns training\design patterns\singleton.cpp
+	<iostream>
+	<string>
+
+1497429091 source:d:\personal\study\design patterns training\design patterns\template.cpp
+
+1497331548 source:d:\personal\study\design patterns training\design patterns\test1.cpp
+	<vector>
+
+1497248758 source:d:\personal\study\design patterns training\design patterns\test2.cpp
+	<vector>
+
+1497421856 source:d:\personal\study\design patterns training\design patterns\wavparserlegacy.cpp
+	<iostream>
+	"inttypes.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1517849023 source:d:\personal\study\design patterns training\design patterns\factorymethod.cpp
+	<iostream>
+
+1519044009 source:d:\personal\study\design patterns training\design patterns\observer1.cpp
+	<iostream>
+	<vector>
+
+1518803723 source:d:\personal\study\design patterns training\design patterns\builder.cpp
+	<iostream>
+	<string>
+
+1518848612 source:d:\personal\study\design patterns training\design patterns\dbfactory.cpp
+	<iostream>
+
+1518850706 source:d:\personal\study\design patterns training\design patterns\singleton1.cpp
+	<iostream>
+
+1518869050 source:d:\personal\study\design patterns training\design patterns\threadsafesingleton.cpp
+	<iostream>
+	<atomic>
+	<mutex>
+
+1519011424 source:d:\personal\study\design patterns training\design patterns\adapter1.cpp
+	<iostream>
+
+1519011438 source:d:\personal\study\design patterns training\design patterns\composite1.cpp
+	<iostream>
+	<vector>
+
+1519016168 source:d:\personal\study\design patterns training\design patterns\decorator.cpp
+	<iostream>
+
+1519017329 source:d:\personal\study\design patterns training\design patterns\facade.cpp
+	<iostream>
+
+1519019210 source:d:\personal\study\design patterns training\design patterns\proxy2.cpp
+	<iostream>
+
+1519026491 source:d:\personal\study\design patterns training\design patterns\cor1.cpp
+	<iostream>
+
+1519032821 source:d:\personal\study\design patterns training\design patterns\command.cpp
+	<iostream>
+
+1519036883 source:d:\personal\study\design patterns training\design patterns\iterator.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1519044054 source:d:\personal\study\design patterns training\design patterns\state.cpp
+	<iostream>
+
+1519046007 source:d:\personal\study\design patterns training\design patterns\strategy.cpp
+	<iostream>
+

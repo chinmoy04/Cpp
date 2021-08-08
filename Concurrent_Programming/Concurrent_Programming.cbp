@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Concurrent_Programming" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Concurrent_Programming" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Concurrent_Programming" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Introduction.cpp" />
+		<Unit filename="callableDemo.cpp" />
+		<Unit filename="dataRaceAndMutex.cpp" />
+		<Unit filename="deadlock.cpp" />
+		<Unit filename="even_odd.cpp" />
+		<Unit filename="fact.cpp" />
+		<Unit filename="packagedTask.cpp" />
+		<Unit filename="producerConsumer.cpp" />
+		<Unit filename="threadCommunication.cpp" />
+		<Unit filename="thread_local.cpp" />
+		<Unit filename="thread_mgt.cpp" />
+		<Unit filename="timeConstraints.cpp" />
+		<Unit filename="uniqueLock.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
